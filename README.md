@@ -54,5 +54,4 @@ python main.py
 ## Authors
 Yao Ouyang, Zihan Chen, Jingyang Zhang
 
-STATGR 5243 -- Columbia University
  
